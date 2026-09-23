@@ -51,15 +51,4 @@ La hipótesis general del modelo es:
 
 > **La probabilidad o posibilidad de división de una colonia aumenta cuando la colonia dispone de suficientes individuos reproductivos y trabajadores para mantener tanto la colonia original como una nueva colonia.**
 
-A partir de esta hipótesis se pueden explorar preguntas como:
-
-* ¿Existe un tamaño mínimo de colonia a partir del cual puede producirse una división?
-* ¿Qué relación entre trabajadoras y larvas favorece el crecimiento?
-* ¿Cómo afecta el número de reinas a la capacidad de generar una nueva colonia?
-* ¿Qué ocurre si la colonia se divide demasiado pronto?
-* ¿Existe un punto en el que mantener una única colonia deja de ser conveniente dentro del modelo?
-* ¿Cómo cambia el resultado cuando se modifican las tasas de nacimiento, desarrollo o mortalidad?
-
-Estas preguntas pueden analizarse mediante diferentes simulaciones y variaciones de los parámetros.
-
 ---
